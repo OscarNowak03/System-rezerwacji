@@ -17,6 +17,13 @@ Projekt umożliwia dodawanie firm, zasobów (sal), tworzenie rezerwacji oraz prz
 
 ---
 
+## Stylowanie
+
+Projekt nie posiada osobnego pliku CSS.  
+Style są zawarte bezpośrednio w pliku `index.html` w sekcji `<style>` w nagłówku dokumentu.
+
+---
+
 ## Technologie
 
 - Node.js
@@ -48,7 +55,7 @@ package.json
 
 1. Zainstaluj zależności:
 
-npm install
+npm install 
 
 
 2. Uruchom serwer:
