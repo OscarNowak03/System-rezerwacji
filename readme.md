@@ -20,11 +20,12 @@ Projekt został wykonany w technologii Node.js z wykorzystaniem bazy danych SQLi
 - statystyki miesięczne.
 
 ## Wymagania niefunkcjonalne
-prosty interfejs,
-responsywność podstawowego układu,
-szybka odpowiedź aplikacji,
-lokalna baza danych SQLite,
-łatwość rozbudowy.
+
+- prosty interfejs,
+- responsywność podstawowego układu,
+- szybka odpowiedź aplikacji,
+- lokalna baza danych SQLite,
+- łatwość rozbudowy.
 
 --
 
