@@ -6,6 +6,28 @@ Projekt został wykonany w technologii Node.js z wykorzystaniem bazy danych SQLi
 
 ---
 
+## Wymagania funkcjonalne
+
+dodawanie firm,
+usuwanie firm,
+dodawanie sal,
+usuwanie sal,
+dodawanie rezerwacji,
+usuwanie rezerwacji,
+zmiana terminu metodą drag&drop,
+kontrola kolizji,
+przegląd kalendarza,
+statystyki miesięczne.
+
+## Wymagania niefunkcjonalne
+prosty interfejs,
+responsywność podstawowego układu,
+szybka odpowiedź aplikacji,
+lokalna baza danych SQLite,
+łatwość rozbudowy.
+
+--
+
 ## Główne funkcjonalności
 
 ### Zarządzanie firmami
@@ -120,3 +142,6 @@ frontend/index.html
 ## Charakterystyka projektu
 
 Aplikacja została zaprojektowana jako prosty system wspomagający zarządzanie rezerwacjami zasobów w organizacji. Głównym celem projektu było połączenie interaktywnego kalendarza, zarządzania danymi oraz prezentacji statystyk w jednym, spójnym systemie działającym lokalnie.
+
+---
+
