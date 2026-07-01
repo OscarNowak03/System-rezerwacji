@@ -46,14 +46,6 @@ Aplikacja generuje podstawowe statystyki dotyczące wykorzystania systemu:
 
 Dane prezentowane są w postaci wskaźników oraz wykresów generowanych za pomocą biblioteki Chart.js.
 
-## Wymagania niefunkcjonalne
-
-- prosty interfejs,
-- responsywność podstawowego układu,
-- szybka odpowiedź aplikacji,
-- lokalna baza danych SQLite,
-- łatwość rozbudowy.
-
 ---
 
 ## Stylowanie
