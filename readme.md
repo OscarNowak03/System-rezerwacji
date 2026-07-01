@@ -8,16 +8,16 @@ Projekt został wykonany w technologii Node.js z wykorzystaniem bazy danych SQLi
 
 ## Wymagania funkcjonalne
 
-dodawanie firm,
-usuwanie firm,
-dodawanie sal,
-usuwanie sal,
-dodawanie rezerwacji,
-usuwanie rezerwacji,
-zmiana terminu metodą drag&drop,
-kontrola kolizji,
-przegląd kalendarza,
-statystyki miesięczne.
+- dodawanie firm,
+- usuwanie firm,
+- dodawanie sal,
+- usuwanie sal,
+- dodawanie rezerwacji,
+- usuwanie rezerwacji,
+- zmiana terminu metodą drag&drop,
+- kontrola kolizji,
+- przegląd kalendarza,
+- statystyki miesięczne.
 
 ## Wymagania niefunkcjonalne
 prosty interfejs,
