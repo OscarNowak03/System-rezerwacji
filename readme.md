@@ -1,4 +1,7 @@
-# System rezerwacji zasobów
+
+
+
+##Streszczenie projektu
 
 System rezerwacji zasobów jest aplikacją webową umożliwiającą zarządzanie rezerwacjami sal przez różne firmy. Aplikacja pozwala na ewidencjonowanie firm i dostępnych zasobów, tworzenie nowych rezerwacji oraz monitorowanie wykorzystania sal za pomocą interaktywnego kalendarza i panelu statystyk.
 
