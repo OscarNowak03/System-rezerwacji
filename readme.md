@@ -54,7 +54,6 @@ Dane prezentowane są w postaci wskaźników oraz wykresów generowanych za pomo
 - lokalna baza danych SQLite,
 - łatwość rozbudowy.
 
---
 ---
 
 ## Stylowanie
