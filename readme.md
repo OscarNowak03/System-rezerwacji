@@ -6,29 +6,6 @@ Projekt został wykonany w technologii Node.js z wykorzystaniem bazy danych SQLi
 
 ---
 
-## Wymagania funkcjonalne
-
-- dodawanie firm,
-- usuwanie firm,
-- dodawanie sal,
-- usuwanie sal,
-- dodawanie rezerwacji,
-- usuwanie rezerwacji,
-- zmiana terminu metodą drag&drop,
-- kontrola kolizji,
-- przegląd kalendarza,
-- statystyki miesięczne.
-
-## Wymagania niefunkcjonalne
-
-- prosty interfejs,
-- responsywność podstawowego układu,
-- szybka odpowiedź aplikacji,
-- lokalna baza danych SQLite,
-- łatwość rozbudowy.
-
---
-
 ## Główne funkcjonalności
 
 ### Zarządzanie firmami
@@ -69,6 +46,15 @@ Aplikacja generuje podstawowe statystyki dotyczące wykorzystania systemu:
 
 Dane prezentowane są w postaci wskaźników oraz wykresów generowanych za pomocą biblioteki Chart.js.
 
+## Wymagania niefunkcjonalne
+
+- prosty interfejs,
+- responsywność podstawowego układu,
+- szybka odpowiedź aplikacji,
+- lokalna baza danych SQLite,
+- łatwość rozbudowy.
+
+--
 ---
 
 ## Stylowanie
