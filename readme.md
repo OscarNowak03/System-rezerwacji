@@ -131,3 +131,15 @@ Aplikacja została zaprojektowana jako prosty system wspomagający zarządzanie 
 
 ---
 
+## Możliwe kierunki rozwoju:
+•	logowanie użytkowników, 
+•	role i uprawnienia, 
+•	filtrowanie rezerwacji, 
+•	wyszukiwarka, 
+•	eksport danych do PDF lub Excel, 
+•	powiadomienia e-mail, 
+•	wersja mobilna, 
+•	integracja z kalendarzami zewnętrznymi (np. Google Calendar), 
+•	panel administratora z rozbudowanymi raportami. 
+
+---
